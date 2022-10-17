@@ -61,3 +61,12 @@ submitBtn.addEventListener('click', () => {
         }
     }
 })
+
+quizData.push({
+    question: 'Qual é a comida preferida do Jaguat?',
+    a: 'Lasanha',
+    b: 'Panqueca',
+    c: 'Quiabo',
+    d: 'As duas primeiras',
+    correct: 'd'
+})
