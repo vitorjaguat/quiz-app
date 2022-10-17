@@ -68,3 +68,20 @@ button:focus {
     outline: none;
     background-color: rgb(56, 61, 55);
 }
+
+
+
+/* Create test: */
+
+.input {
+    font-size: 1.2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.input input {
+    max-width: auto;
+    flex-grow: auto;
+    flex: 1;
+    margin-left: 1.5rem;
+}
